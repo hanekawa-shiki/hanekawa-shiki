@@ -1,0 +1,8 @@
+{
+  "name": "hanekawa-shiki",
+  "version": "0.0.1",
+  "dependencies": {
+    "@octokit/rest": "22.0.1",
+    "dayjs": "1.11.21"
+  }
+}
